@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hotstar-deployment
+spec:
+  replicas: 2  # You can adjust the number of replicas as needed
+  selector:
+    matchLabels:
+      app: hotstar
+  template:
+    metadata:
+      labels:
+        app: hotstar
+    spec:
+      containers:
+      - name: hotstar-container
+        image: prathamnandgiwar/hotstar:latest 
+        ports:
+        - containerPort: 3000
