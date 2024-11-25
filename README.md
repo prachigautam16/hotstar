@@ -1,6 +1,5 @@
 EKS PIPELINE Script
 
-'''
       pipeline {
           agent any
           environment {
