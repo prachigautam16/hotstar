@@ -1,4 +1,21 @@
 
+<div align="center">
+
+
+  <br>
+  <a href="![WhatsApp Image 2024-11-25 at 03 09 09](https://github.com/user-attachments/assets/5bbf3bc7-8132-4305-830c-4fcc45c006d6)
+">
+    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <p align="center">Home Page</p>
+</div>
+
 # $${\color{Blue} \textbf {Deploy Hotstar Clone on Cloud using Jenkins - DevOps Project!}}$$
 
 
